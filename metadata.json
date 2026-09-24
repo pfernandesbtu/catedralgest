@@ -1,0 +1,6 @@
+{
+  "name": "CatedralGest",
+  "description": "Sistema de Gestão Pastoral para Catequese e Crisma com Totem de Autoatendimento via PIN.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
